@@ -1,1 +1,1 @@
-# carry_trade_with_volatility_proxy
+# carry trade with volatility proxy
