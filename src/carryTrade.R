@@ -11,23 +11,6 @@ library(forecast)
 library(tseries)
 
 `%!in%` = Negate(`%in%`)
-### Glossary
-### (https://www.investopedia.com/terms/b/bid-and-ask.asp)
-### - Bid: what the investor wants to pay 
-### - Offer: what the owner wants to get
-### - Spread bid/ask: an indicator of supply and demand for the financial instrument.
-###                 the smaller the spread, the greater the liquidity of the given security.
-###                 The spread represents the market maker's profit.
-### - Forwards discount = f - s = forward rate - spot rate = price tomorrow vs price today -> spread  
-###                       if > 0  -> appreciation of the currency wrt USD
-### 
-### 
-### - volatility beta = https://www.investopedia.com/terms/b/beta.asp  // https://www.investopedia.com/investing/beta-gauging-price-fluctuations/
-### 
-
-
-
-
 
 ################################################################################
 ##################### DATA PREPARATION #########################################
